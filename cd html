@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha Página</title>
+</head>
+<body>
+
+    <h1>Olá, eu sou um desenvolvedor!</h1>
+
+    <p>Este é meu primeiro projeto em HTML.</p>
+
+    <h2>Sobre mim</h2>
+    <p>Estou aprendendo programação e começando com HTML.</p>
+
+    <h2>Meus interesses</h2>
+    <ul>
+        <li>Programação</li>
+        <li>Tecnologia</li>
+        <li>Jogos</li>
+    </ul>
+
+</body>
+</html>
